@@ -13,6 +13,9 @@ CALU:
 Aprendemos como a mecher no github, criar um repositório, salvar arquivos no Vs code, tivemos que abaixar github desktop para que fosse possível salva o arquivo. Nas primeiras aulas vimos um pouco
 sobre HTML.
 
+<img src="Html.png" alt="Girl in a jacket" width="500" height="600">
+
+
 BARRETO:
 Criamos diagramas de caso de uso e também  estamos fazendo leitura de materias 
 
